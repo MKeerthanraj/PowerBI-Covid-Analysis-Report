@@ -4,3 +4,8 @@
 
 ##### Data Last updated : 17/01/2022
 
+The Repo consists of a .ipynb file which is the data preprocessing done in jupyter notebook
+
+The .pbix file is the powerBI report
+
+The .csv file consists of the preprocessed data
